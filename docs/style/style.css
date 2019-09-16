@@ -42,6 +42,19 @@ body{
 
 }
 
+.choixgalere{
+  font-family: sans-serif, TodaySHOP sans ;
+  text-align: center;
+  float: left;
+  width: 10%%;
+  height : 30px;
+  background-color: #ffe500;
+  color: #2a3280;
+  margin: 10px 0.2%;
+  font-size: 20px;
+  display: table;
+}
+
 a{
   text-decoration: none;
   vertical-align: middle;
@@ -82,9 +95,8 @@ script{
 }
 
 @media only screen and (max-width:600px) {
-  
+
   .choix1 , .choix2 , .choix3 {
     width : 95% ;
   }
 }
-  
